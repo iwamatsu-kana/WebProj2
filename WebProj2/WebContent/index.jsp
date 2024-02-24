@@ -33,5 +33,5 @@
 	<s:submit value="送信"/>
 	</s:form>
 
-	/body>
+	</body>
 </html>
