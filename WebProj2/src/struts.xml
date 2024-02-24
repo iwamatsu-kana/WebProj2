@@ -26,5 +26,9 @@ method="execute">
 <result name="success">inquiry.jsp</result>
 </action>
 
+<action name="InquiryCompleteAction" class="com.diworksdev.webproj2.action.InquiryCompleteAction" method="execute">
+<result name="success">inquiryComplete.jsp</result>
+</action>
+
 </package>
 </struts>
